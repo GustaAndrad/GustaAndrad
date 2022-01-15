@@ -1,8 +1,9 @@
 ### Eei!!👋 Eu sou o Gustavo Andrade
 
-- 🌱 Atualmente estou estudando a linguagem Java
-- 🖋 Inicio desta jornada Novembro/21
+- 🌱 Atualmente estou estudando a linguagem Java   //   I'm currently studying the Java language
+- 🖋 Inicio desta jornada Novembro/21    //    I started studying in Nov/2021
 - ⚡ Curiosidade: Adoro fotografar, faço trabalhos com fotografia e sou formado em marketing, porem hoje busco novos caminhos.
+-    // I love to photograph, I work with photography and I'm gradueted in marketing, but I'm looking for a new journey.
 
 <div align="center">
   <a href="https://github.com/GustaAndrad">
