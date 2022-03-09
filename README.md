@@ -4,7 +4,7 @@
 - 🖋 Inicio desta jornada Novembro/21    //    I started studying in Nov/2021
 - ⚡ Curiosidade: Adoro fotografar, faço trabalhos com fotografia e sou formado em marketing, porem hoje busco novos caminhos.
 -    // I love to photograph, I work with photography and I'm gradueted in marketing, but I'm looking for a new journey.
--    Tenho conhecimento da a linguagem Java, que foi a primeira linguagem de programação que eu aprendi.
+-    Tenho conhecimento da linguagem Java, que foi a primeira linguagem de programação que eu aprendi.
 
 <div align="center">
   <a href="https://github.com/GustaAndrad">
