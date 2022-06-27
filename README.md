@@ -1,7 +1,7 @@
 Hi 👋 My name is Gustavo Andrade
 ================================
 
-🌱 Atualmente estou estudando JavaScript e typescript. 
+🌱 Atualmente estou estudando Angular e SpringBoot. 
 <hr>
 🖋 Inicio desta jornada Novembro/21.
 <hr>
