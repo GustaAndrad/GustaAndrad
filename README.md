@@ -1,15 +1,16 @@
 Hi 👋 My name is Gustavo Andrade
 ================================
 
-🌱 Atualmente estou estudando Angular e SpringBoot. 
+🌱 Atualmente estou estudando Dart com Flutter para desenvolvimento Mobile. 
+
 <hr>
-🖋 Inicio desta jornada Novembro/21.
-<hr>
+
 ⚡ Curiosidade: Adoro fotografar, e sou formado em marketing, porem hoje busco novos caminhos na area da tecnologia.
 
 <hr>
 
- Tenho conhecimento da linguagem Java, que foi a primeira linguagem de programação que eu aprendi.
+ Tenho conhecimento das linguagens : Java, TypeScript, JavaScript, HTML, Css e Dart
+ Frameworks : SpringBoot, Angular e Flutter
  
  <hr>
 
