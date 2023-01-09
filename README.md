@@ -9,12 +9,12 @@ Hi 👋 My name is Gustavo Andrade
 
 <hr>
 
- Tenho conhecimento das linguagens : Java, TypeScript, JavaScript, HTML, Css e Dart
- Frameworks : SpringBoot, Angular e Flutter
+ Tenho conhecimento das linguagens : Java, TypeScript, JavaScript, HTML, Css e Dart.
+ Frameworks : SpringBoot, Angular, React e Flutter
  
  <hr>
 
-* 🌍  Brazil , Vila velha - ES
+* 🌍  Brasil , Vila velha - ES
 * ✉️  Pode entrar em contato comigo [gusta.andradev@gmail.com](mailto:gusta.andradev@gmail.com)
 
 ### Skills
@@ -38,11 +38,6 @@ Hi 👋 My name is Gustavo Andrade
 
 <p align="left"> <a href="https://discord.com/users/Gussta#2917" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/andradgusta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gustaandradev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GustaAndrad"><img src="https://github-readme-stats.vercel.app/api?username=GustaAndrad&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GustaAndrad's GitHub stats" /></a>
-
-<a href="https://github.com/GustaAndrad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaAndrad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  
   
 </div>
