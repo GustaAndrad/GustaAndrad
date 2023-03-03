@@ -1,7 +1,7 @@
 Hi 👋 My name is Gustavo Andrade
 ================================
 
-🌱 Atualmente estou estudando Spring na arquitetura de microservices e tambem Dart com Flutter para desenvolvimento Mobile. 
+🌱 Atualmente estou estudando Spring na arquitetura de microservices pelo curso Projeto Decoder e tambem Dart com Flutter para desenvolvimento Mobile pelo curso Academia do flutter. 
 
 <hr>
 
